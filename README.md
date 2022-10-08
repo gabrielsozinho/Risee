@@ -1,2 +1,1 @@
-# Risee
-A simple and clean social media. Free forever, no ads.
+<div align="center"><h1>Risee</h1></div>

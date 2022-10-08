@@ -1,1 +1,1 @@
-<div align="center"><h1>Risee</h1></div>
+<div align="center"><img scr="project-banner.png" alt="Risee. Simple and clean social network. No ads, free forever."></div>
